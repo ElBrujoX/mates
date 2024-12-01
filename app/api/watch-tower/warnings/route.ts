@@ -1,0 +1,2 @@
+- GET /api/watch-tower/warnings - Get trending warnings
+- POST /api/watch-tower/warnings/report - Report similar case 

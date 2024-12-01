@@ -1,0 +1,2 @@
+- GET /api/watch-tower/updates - Get active updates
+- GET /api/watch-tower/updates/stats - Get current stats (active alerts, risk levels, etc.)

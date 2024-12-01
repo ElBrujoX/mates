@@ -1,0 +1,3 @@
+- GET /api/watch-tower/scams - Get verified scams
+- GET /api/watch-tower/scams/:id/related - Get related cases
+- POST /api/watch-tower/scams/:id/evidence - Add evidence 
